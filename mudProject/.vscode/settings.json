@@ -1,8 +1,3 @@
 {
-  "solidity.remappings": [
-    "ds-test/=./node_modules/ds-test/src/",
-    "solmate/=./node_modules/@rari-capital/solmate/src/",
-    "forge-std/=./node_modules/forge-std/src/",
-    "@latticexyz/=./node_modules/@latticexyz/"
-  ]
+  "solidity.monoRepoSupport": true
 }
