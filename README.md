@@ -1,2 +1,2 @@
 # CryptoBiodiversity
-Project for  Autonomous Worlds Hackato.
+Project for  Autonomous Worlds Hackathon.
